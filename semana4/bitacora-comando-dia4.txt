@@ -1,8 +1,8 @@
 Bitácora de comando – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
+Nombre del estudiante: Nicolas León
 Fecha:
-Nombre de la rama:
+Nombre de la rama: nicolas_leon
 
 Comando nuevo del día:
 npm run api
@@ -12,59 +12,74 @@ Escribe los comandos que usaste durante la práctica.
 1. Comando usado para clonar el repositorio:
 
 Respuesta:
+git clone https://github.com/dnleonm/programadores-para-la-paz-modulo2-semana1-dia4.git
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
 Respuesta:
+cd programadores-para-la-paz-modulo2-semana1-dia4
 
 3. Comando usado para crear tu rama personal:
 
 Respuesta:
+git checkout -b nicolas_leon
 
 4. Comando usado para verificar la rama:
 
 Respuesta:
+git branch
 
 5. Comando usado para instalar dependencias:
 
 Respuesta:
+npm install
 
 6. Comando usado para levantar la API:
 
 Respuesta:
+npm run api
 
 7. Dirección abierta en el navegador:
 
 Respuesta:
+http://localhost:3000
 
 8. Ruta usada para consultar propuestas:
 
 Respuesta:
+GET /api/propuestas
 
 9. Ruta usada para enviar propuestas:
 
 Respuesta:
+POST /api/propuestas
 
 10. Prueba realizada con campo vacío:
 
 Respuesta:
+Se dejó vacío el campo del título y también el campo del mensaje para probar las validaciones.
 
 11. Mensaje de validación observado:
 
 Respuesta:
+Falta el título. Toda propuesta debe tener un título claro.
 
 12. Comando usado para revisar cambios en Git:
 
 Respuesta:
+git status
 
 13. Comando usado para agregar cambios:
 
 Respuesta:
+git add .
 
 14. Comando usado para crear commit:
 
 Respuesta:
+git commit -m "API formulario JSON modulo 2 semana 1 dia 4"
 
 15. Comando usado para publicar la rama:
 
 Respuesta:
+git push -u origin nicolas_leon

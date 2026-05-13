@@ -1,8 +1,8 @@
 Reflexión sobre API, participación y comunicación responsable – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: David Nicolás León Martínez
+Fecha: 13/05/2026
+Nombre de la rama: nicolas_leon
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -22,4 +22,4 @@ En tu respuesta menciona al menos tres de estas ideas:
 - reglas editoriales
 - moderación responsable
 
-Respuesta:
+Respuesta: Una plataforma comunitaria debe organizar, validar, guardar y responder la información con claridad porque así fortalece la participación ciudadana y la confianza comunitaria. Cuando las propuestas quedan registradas correctamente, existe trazabilidad y transparencia sobre lo que la comunidad comunica y solicita. Además, validar la información ayuda a prevenir desinformación y evita publicar mensajes confusos o irresponsables. También es importante usar lenguaje claro y responsable para mantener una buena convivencia digital y promover una cultura de paz. Las reglas editoriales y la moderación responsable permiten revisar que los mensajes tengan respeto, propósito comunitario y datos suficientes antes de publicarse. De esta manera, la tecnología no solo recibe información, sino que también ayuda a construir espacios digitales más seguros, organizados y útiles para toda la comunidad.

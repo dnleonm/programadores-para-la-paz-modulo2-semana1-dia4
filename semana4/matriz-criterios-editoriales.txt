@@ -1,39 +1,45 @@
 Matriz de criterios editoriales – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
+Nombre del estudiante: Nicolas León
 Fecha:
-Nombre de la rama:
+Nombre de la rama: nicolas_leon
 
 Revisa la propuesta que enviaste desde el formulario comunitario.
 
 1. Título del mensaje o propuesta:
 
 Respuesta:
+Campaña de información verificada para la comunidad
 
 2. Narrativa digital:
 ¿Qué historia, necesidad o propósito comunitario comunica la propuesta?
 
 Respuesta:
+La propuesta busca fortalecer la confianza comunitaria mediante información clara, verificable y responsable para prevenir rumores y desinformación.
 
 3. Audiencia principal:
 Ejemplos: jóvenes, familias, líderes comunitarios, comunidad general, docentes, participantes del programa.
 
 Respuesta:
+Comunidad general y participantes de espacios digitales comunitarios.
 
 4. Propósito del mensaje:
 Ejemplos: informar, convocar, prevenir desinformación, promover convivencia, recoger propuestas, orientar a la comunidad.
 
 Respuesta:
+Prevenir desinformación, orientar a la comunidad y promover convivencia digital responsable.
 
 5. Tono del mensaje:
 Ejemplos: informativo, respetuoso, pedagógico, preventivo, convocante, institucional, cercano.
 
 Respuesta:
+Informativo, preventivo y respetuoso.
 
 6. Llamado a la acción:
 ¿Qué debe hacer la persona que lee el mensaje?
 
 Respuesta:
+Verificar la información antes de compartirla y participar responsablemente en los canales comunitarios.
 
 7. Lenguaje responsable y no estigmatizante:
 
@@ -41,44 +47,57 @@ Marca con SÍ o NO.
 
 El mensaje evita insultos:
 Respuesta:
+SÍ
 
 El mensaje evita generalizaciones sobre grupos:
 Respuesta:
+SÍ
 
 El mensaje evita lenguaje alarmista:
 Respuesta:
+SÍ
 
 El mensaje evita señalamientos sin evidencia:
 Respuesta:
+SÍ
 
 El mensaje evita ridiculizar o excluir:
 Respuesta:
+SÍ
 
 El mensaje promueve convivencia:
 Respuesta:
+SÍ
 
 8. Reglas editoriales mínimas:
 
 El mensaje tiene título claro:
 Respuesta:
+SÍ
 
 El mensaje tiene propósito comunitario:
 Respuesta:
+SÍ
 
 El mensaje tiene categoría adecuada:
 Respuesta:
+SÍ
 
 El mensaje usa lenguaje claro:
 Respuesta:
+SÍ
 
 El mensaje indica fuente cuando hace afirmaciones verificables:
 Respuesta:
+NO
 
 El mensaje puede publicarse sin revisión adicional:
 Respuesta:
+SÍ
 
 9. Mejora propuesta:
 
 Escribe una versión mejorada del mensaje aplicando lenguaje responsable, tono adecuado y llamado a la acción claro.
 
 Respuesta:
+Promover campañas comunitarias de información verificada mediante mensajes claros, respetuosos y con fuentes confiables para fortalecer la convivencia digital y prevenir la circulación de rumores en la comunidad. Verifica siempre la fuente y comparte información responsablemente.

@@ -1,55 +1,67 @@
 Conceptos básicos de API, JSON y validación – Módulo 2 Semana 1 Día 4
 
-Nombre del estudiante:
+Nombre del estudiante: Nicolas León
 Fecha:
-Nombre de la rama:
+Nombre de la rama: nicolas_leon
 
 Responde con tus propias palabras.
 
 1. ¿Qué es una API?
 
 Respuesta:
+Una API es una forma organizada de comunicación entre una página web y un servidor para consultar o enviar información.
 
 2. ¿Por qué se dice que una API permite comunicación entre cliente y servidor?
 
 Respuesta:
+Porque recibe solicitudes del cliente y responde con información o acciones desde el servidor.
 
 3. ¿Qué hace la ruta GET /api/propuestas?
 
 Respuesta:
+Permite consultar y mostrar las propuestas guardadas en el archivo JSON.
 
 4. ¿Qué hace la ruta POST /api/propuestas?
 
 Respuesta:
+Permite enviar y guardar una nueva propuesta desde el formulario hacia el servidor.
 
 5. ¿Qué hace express.json() en esta práctica?
 
 Respuesta:
+Permite que Express pueda leer los datos JSON enviados desde el formulario o cliente web.
 
 6. ¿Qué hace JSON.stringify?
 
 Respuesta:
+Convierte datos de JavaScript en texto con formato JSON para poder guardarlos o enviarlos.
 
 7. ¿Qué hace JSON.parse?
 
 Respuesta:
+Convierte texto JSON en datos que JavaScript puede utilizar.
 
 8. ¿Qué hace fs.readFileSync?
 
 Respuesta:
+Lee el contenido de un archivo de forma directa desde Node.js.
 
 9. ¿Qué hace fs.writeFileSync?
 
 Respuesta:
+Guarda o sobrescribe información dentro de un archivo desde Node.js.
 
 10. ¿Por qué este ejercicio todavía no es una base de datos?
 
 Respuesta:
+Porque la información se guarda en un archivo JSON simple y no en un sistema especializado de bases de datos.
 
 11. ¿Qué significa validar campos antes de guardar una propuesta?
 
 Respuesta:
+Significa revisar que la información importante no esté vacía y que la propuesta tenga datos completos antes de guardarse.
 
 12. ¿Por qué una API comunitaria debe responder con mensajes claros cuando falta información?
 
 Respuesta:
+Porque ayuda a las personas a corregir errores, mejora la comunicación y evita confusiones dentro de la plataforma.
